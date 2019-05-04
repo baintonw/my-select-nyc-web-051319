@@ -1,4 +1,4 @@
-def my_collect(array)
+def my_select(array)
   new_array = []
   counter = 0
   while counter < array.length
