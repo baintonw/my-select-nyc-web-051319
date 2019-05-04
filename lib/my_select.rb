@@ -2,7 +2,7 @@ def my_select(array)
   new_array = []
   counter = 0
   while counter < array.length
-    if
+    if 
     new_array << yield(array[counter])
     end
     counter += 1
